@@ -21,6 +21,7 @@ To use the calculator, simply run the application. You will be prompted to enter
 
 ## Operators
 The calculator supports the following operators: 
+    
     + for addition
     - for subtraction
     * for multiplication
