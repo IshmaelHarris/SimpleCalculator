@@ -3,7 +3,6 @@
 ## Overview
 The Simple Calculator is a console-based application written in C#. It provides basic arithmetic operations such as addition, subtraction, multiplication, division, exponentiation, modulus, and trigonometric functions (sin, cos, tan). The calculator is designed to be user-friendly and robust, handling user inputs and errors gracefully.
 
-
 ## Features
 - Basic Arithmetic Operations: The calculator can perform addition, subtraction, multiplication, and division operations.
 
@@ -17,13 +16,11 @@ The Simple Calculator is a console-based application written in C#. It provides 
 
 - Unit Testing: The calculator includes a set of unit tests to ensure the correctness of the calculations.
 
-
 ## Usage
 To use the calculator, simply run the application. You will be prompted to enter the first number, an operator, and a second number. After the calculation is performed, the result will be displayed. You will then have the option to perform another operation on this result or start a new calculation.
 
 ## Operators
-The calculator supports the following operators:
-    
+The calculator supports the following operators: 
     + for addition
     - for subtraction
     * for multiplication
@@ -34,9 +31,8 @@ The calculator supports the following operators:
     cos for cosine function
     tan for tangent function
 
-
 ## Testing
 The calculator includes a CalculatorTests class that contains unit tests for the calculator. These tests ensure that the calculator performs calculations correctly.
-Conclusion
 
+## Conclusion
 The Simple Calculator is a robust and user-friendly console application for performing basic and advanced mathematical calculations. Whether you need to do some quick arithmetic or solve a complex equation, the Simple Calculator has got you covered.
