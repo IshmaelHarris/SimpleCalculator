@@ -1,4 +1,4 @@
-# Simple Calculator in C#
+# Simple Calculator
 
 ## Overview
 The Simple Calculator is a console-based application written in C#. It provides basic arithmetic operations such as addition, subtraction, multiplication, division, exponentiation, modulus, and trigonometric functions (sin, cos, tan). The calculator is designed to be user-friendly and robust, handling user inputs and errors gracefully.
